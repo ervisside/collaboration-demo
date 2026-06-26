@@ -6,3 +6,7 @@ This project is used to practice Git and GitHub collaboration workflows.
 - Open an issue
 - Create a branch
 - Submit a pull request
+
+## How to Run
+
+Torun this project locally, clone the repository and open app.txt .
