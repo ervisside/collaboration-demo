@@ -9,4 +9,4 @@ This project is used to practice Git and GitHub collaboration workflows.
 
 ## How to Run
 
-Torun this project locally, clone the repository and open app.txt .
+To run this project locally, clone the repository to your system and open the using any text editor .
